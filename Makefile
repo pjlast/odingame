@@ -1,2 +1,4 @@
-hello:
+run:
 	odin run .
+
+.PHONY: run
